@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "sprint.datasourse.username",
+    "type": "java.lang.String",
+    "description": "A description for 'sprint.datasourse.username'"
+  },
+  {
+    "name": "spring.datasourse.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.password'"
+  },
+  {
+    "name": "spring.datasourse.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.username'"
+  }
+]}
